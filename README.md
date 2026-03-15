@@ -244,6 +244,7 @@ Student Answer Submission
 <p align="center">
   <img src="image/architecture_photo.png" width="700">
 </p>
+
 ---
 
 # 🔮 Future Improvements
