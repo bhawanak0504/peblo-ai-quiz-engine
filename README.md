@@ -42,7 +42,9 @@ peblo_ai_quiz_engine_project
 │
 ├── data
 │   └── pdfs
-│
+├── image
+|    └── architecture_photo.pnp
+|
 ├── quiz.db
 ├── requirements.txt
 ├── .env.example
