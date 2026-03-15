@@ -239,6 +239,10 @@ REST API Layer
 Student Answer Submission
 ```
 
+## Architecture Diagram
+
+![AI Quiz Engine Architecture](image/architecture_photo.png)
+
 ---
 
 # 🔮 Future Improvements
