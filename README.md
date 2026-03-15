@@ -241,8 +241,9 @@ Student Answer Submission
 
 ## Architecture Diagram
 
-![AI Quiz Engine Architecture](image/architecture_photo.png)
-
+<p align="center">
+  <img src="image/architecture_photo.png" width="700">
+</p>
 ---
 
 # 🔮 Future Improvements
