@@ -59,7 +59,7 @@ peblo_ai_quiz_engine_project
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/peblo-ai-quiz-engine.git
+git clone https://github.com/bhawanak0504/peblo-ai-quiz-engine.git
 cd peblo-ai-quiz-engine
 ```
 
