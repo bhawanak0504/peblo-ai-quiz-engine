@@ -42,8 +42,9 @@ peblo_ai_quiz_engine_project
 │
 ├── data
 │   └── pdfs
+|
 ├── image
-|    └── architecture_photo.pnp
+|    └── architecture_photo.png
 |
 ├── quiz.db
 ├── requirements.txt
